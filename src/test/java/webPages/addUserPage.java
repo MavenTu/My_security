@@ -20,7 +20,7 @@ public class addUserPage {
 
 	@FindBy(xpath="(//*[@name='button'])[2]")  @CacheLookup WebElement Loginbutton;
 	
-	@FindBy(xpath="(//a[@class='dropdown-toggle border-contact-clr sm-arrow3 dropdown-toggle'])[1]")  @CacheLookup WebElement PropertyDropdown;
+	@FindBy(xpath="//a[normalize-space()='Support Staffs']")  @CacheLookup WebElement PropertyDropdown;
 	
 	@FindBy(xpath="(//a[text()='Flat Owners'])[1]")  @CacheLookup WebElement Flatowner;
 	

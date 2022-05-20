@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-05-19T23:33:53 IST" name="Default suite" finished-at="2022-05-19T23:34:39 IST" duration-ms="45170">
+  <suite started-at="2022-05-20T10:18:47 IST" name="Default suite" finished-at="2022-05-20T10:19:41 IST" duration-ms="54194">
     <groups>
     </groups>
-    <test started-at="2022-05-19T23:33:53 IST" name="Default test" finished-at="2022-05-19T23:34:39 IST" duration-ms="45170">
-      <class name="webTests.BlockWingsTest">
-        <test-method signature="init()[pri:0, instance:webTests.BlockWingsTest@4f18837a]" started-at="2022-05-19T23:33:53 IST" name="init" finished-at="2022-05-19T23:34:39 IST" duration-ms="45126" status="PASS">
+    <test started-at="2022-05-20T10:18:47 IST" name="Default test" finished-at="2022-05-20T10:19:41 IST" duration-ms="54194">
+      <class name="webTests.SupportStaffsTest">
+        <test-method signature="init()[pri:0, instance:webTests.SupportStaffsTest@4f18837a]" started-at="2022-05-20T10:18:47 IST" name="init" finished-at="2022-05-20T10:19:41 IST" duration-ms="54143" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-      </class> <!-- webTests.BlockWingsTest -->
+      </class> <!-- webTests.SupportStaffsTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
