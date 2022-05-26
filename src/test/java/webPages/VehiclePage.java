@@ -43,6 +43,7 @@ import org.openqa.selenium.support.ui.Select;
 		  	WebElement subMenuOption = Vehicle; 
 		  	actions.moveToElement(subMenuOption).perform();
 			subMenuOption.click();
+			
 			Thread.sleep(3000);
 		}	
 		public  void vehicletest() throws InterruptedException {
