@@ -28,13 +28,13 @@ public class addUserTest {
 	       Thread.sleep(5000);
 	       adduserpage.clickOnaddUser();
 	       Thread.sleep(5000);
-	       adduserpage.setfname("kutal");
+	       adduserpage.setfname("kuta");
 	       Thread.sleep(2000);
-	       adduserpage.setlname("mjhi");
+	       adduserpage.setlname("mjh");
 	       Thread.sleep(2000);
-	       adduserpage.setEmail2("majh@yopmail.com");
+	       adduserpage.setEmail2("ma@yopmail.com");
 	       Thread.sleep(3000);
-	       adduserpage.setphoneno("8974566123");
+	       adduserpage.setphoneno("8974566122");
 	       Thread.sleep(3000);
 	       adduserpage.clickOndropdown2();
 	       Thread.sleep(5000);

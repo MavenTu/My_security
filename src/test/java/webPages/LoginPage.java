@@ -19,9 +19,9 @@ public class LoginPage {
 
 	@FindBy(xpath="(//*[@name='button'])[2]")  @CacheLookup WebElement Loginbutton;
 	
-	@FindBy(xpath="//img[@alt='User Image']")  @CacheLookup WebElement Imagebutton;
+//	@FindBy(xpath="//img[@alt='User Image']")  @CacheLookup WebElement Imagebutton;
 	
-	@FindBy(xpath="//a[normalize-space()='Sign out']")  @CacheLookup WebElement Logoutbutton;
+//	@FindBy(xpath="//a[normalize-space()='Sign out']")  @CacheLookup WebElement Logoutbutton;
 	
 	
    public void setEmail(String strEmail) {
@@ -41,7 +41,7 @@ public class LoginPage {
 	  
 }
   
-  public void imageButton() {
+ /* public void imageButton() {
 	  
 	  Imagebutton.click();  
 	  
@@ -51,7 +51,7 @@ public class LoginPage {
 	  
 	  Logoutbutton.click(); 
 	  
-  }
+  }*/
   
   
   
